@@ -18,7 +18,7 @@ Depth-First Search. 깊이 우선 탐색이라고도 부르며, 그래프의 깊
 
 ---
 <div>
- <img width="624" align="left" alt="Untitled (5)" src="https://user-images.githubusercontent.com/102349522/210205057-d9f989b5-a105-4ec9-922b-cc16698a0829.png">
+ <img width="624" height="300" align="left" alt="Untitled (5)" src="https://user-images.githubusercontent.com/102349522/210205057-d9f989b5-a105-4ec9-922b-cc16698a0829.png">
  
  <p>오동통 살찐 멍멍이 고긴 끝내주지</p>
  </div>
