@@ -17,7 +17,7 @@ Depth-First Search. 깊이 우선 탐색이라고도 부르며, 그래프의 깊
 3. 2번의 과정을 더 이상 수행할 수 없을 때까지 반복한다.
 
 ---
- <img width="624" align="left" alt="Untitled (5)" src="https://user-images.githubusercontent.com/102349522/210205057-d9f989b5-a105-4ec9-922b-cc16698a0829.png">
+ <img width="624" alt="Untitled (5)" src="https://user-images.githubusercontent.com/102349522/210205057-d9f989b5-a105-4ec9-922b-cc16698a0829.png">
  <p style="paddingLeft: 10px">시작 노드인 ‘1’을 스택에 삽입하고 방문 처리를 한다.</p>
 
  
