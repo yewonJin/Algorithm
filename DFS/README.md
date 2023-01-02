@@ -20,6 +20,6 @@ Depth-First Search. 깊이 우선 탐색이라고도 부르며, 그래프의 깊
 <div>
  <img width="624" align="left" alt="Untitled (5)" src="https://user-images.githubusercontent.com/102349522/210205057-d9f989b5-a105-4ec9-922b-cc16698a0829.png">
  
- <p>오동통 살찐 멍멍이 고긴 끝내주지</p>
+ <p>시작 노드인 ‘1’을 스택에 삽입하고 방문 처리를 한다.</p>
  </div>
 
