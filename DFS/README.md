@@ -13,4 +13,4 @@ Depth-First Search. 깊이 우선 탐색이라고도 부르며, 그래프의 깊
 
 3. 2번의 과정을 더 이상 수행할 수 없을 때까지 반복한다.
 
-![12](https://user-images.githubusercontent.com/102349522/210231972-9af08445-cd82-490f-bee2-1801e2408254.gif)
+![DFS](https://user-images.githubusercontent.com/102349522/210232163-a96b5b84-a8ae-49b1-b9f9-eb361c604b40.gif)
