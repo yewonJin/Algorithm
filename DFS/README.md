@@ -13,3 +13,4 @@ Depth-First Search. 깊이 우선 탐색이라고도 부르며, 그래프의 깊
 ![DFS](https://user-images.githubusercontent.com/102349522/210225120-57bdc539-b88d-405b-b0c1-dd4074572dc6.gif)
 
 
+<span style="color:blue">방문 처리</span>
