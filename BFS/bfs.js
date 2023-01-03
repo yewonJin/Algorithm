@@ -10,7 +10,7 @@ var graph = [
   [1, 7],
 ];
 
-var visited = new Array(9).fill(false);
+var visited = new Array(graph.length).fill(false);
 
 function bfs(graph, v, visited) {
     let queue = [v];
