@@ -11,7 +11,7 @@ var graph = [
 ];
 
 // 방문 처리 배열 
-var visited = new Array(9).fill(false);
+var visited = new Array(graph.length).fill(false);
 
 function dfs(graph, v, visited) {
   visited[v] = true;
