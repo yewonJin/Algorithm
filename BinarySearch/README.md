@@ -14,6 +14,6 @@
 
 찾으려는 데이터와 중간점 위치에 있는 데이터를 반복적으로 비교하여 원하는 데이터를 찾는 게 이진 탐색 과정이다.
 
-![anigif](https://user-images.githubusercontent.com/102349522/210703218-c4fabe04-a4e9-43ad-bab1-4e9682019e9e.gif)
 
+![binarySearch](https://user-images.githubusercontent.com/102349522/210706451-5a42b1ea-a677-4aa0-8e44-70ae7241894c.gif)
 
