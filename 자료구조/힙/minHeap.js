@@ -1,3 +1,5 @@
+// 루트 노드의 인덱스 === 1
+
 class MinHeap {
   constructor() {
     this.heap = [null];
@@ -7,6 +9,7 @@ class MinHeap {
     [this.heap[a], this.heap[b]] = [this.heap[b], this.heap[a]];
   }
 
+  // 힙의 추가
   heappush(value) {
     this.heap.push(value);
     let curIndex = this.heap.length - 1;
@@ -21,6 +24,7 @@ class MinHeap {
     }
   }
 
+  // 힙의 삭제
   heappop() {
     const min = this.heap[1];
     if (this.heap.length <= 2) this.heap = [null];
